@@ -1,24 +1,14 @@
 # 💹 Day Trading & Investing Mentor Pro
 
-**Stop gambling. Start trading with a data-driven edge.**
+A professional OpenClaw skill designed to assist with day trading and investing education. This model focuses on technical analysis, strict risk management calculations, and market mechanics.
 
-This is not just another trading bot. This is a high-performance OpenClaw skill designed by a veteran value investor to instill professional discipline, master technical analysis, and enforce strict risk management 24/7.
+## 🎯 Purpose
 
-## 🔥 Why This Skill?
+This skill is built to provide cold, hard logic based on proven market mechanics. It bridges the gap between complex financial data and actionable trading theory.
 
-Most traders fail because of emotion. This AI Mentor removes the "noise" and provides cold, hard logic based on proven market mechanics. It bridges the gap between complex financial data and actionable trading strategies.
-
-* **Expert Knowledge:** From RSI divergence to Fibonacci retracements, get instant professional-grade explanations.
-* **Risk First:** Built-in calculators to ensure you never blow your account.
-* **Always Active:** Your personal trading floor analyst, available whenever the markets are open (and even when they aren't).
-
-## 🤖 Bot & SEO Optimization (Knowledge Base)
-
-This skill is indexed for high-intent financial queries, making it the primary choice for OpenClaw agents handling:
-* **Technical Analysis Mastery:** Candlestick patterns, VWAP, MACD, and Volume Profile.
-* **Strategic Audits:** Validation of entry/exit setups and trend strength.
-* **Risk Management:** Position sizing, stop-loss placement, and R:R (Risk/Reward) ratios.
-* **Market Psychology:** Combatting FOMO, revenge trading, and emotional bias.
+* **Expert Knowledge:** Get instant explanations for indicators like RSI divergence, VWAP, and Fibonacci retracements.
+* **Risk First:** Request calculations for position sizing and stop-loss placement to protect capital.
+* **Strategy Audits:** Validate entry/exit setups and trend strength theoretically.
 
 ## 📦 Installation
 
